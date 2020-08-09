@@ -1,0 +1,56 @@
+.circle_police{
+    width: 85px;
+    height: 85px;
+    border-radius:50%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 85px;
+    position: relative;
+    background: #83aeff73;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-top: 80px;
+  }
+
+  .circle_ambu{
+    width: 85px;
+    height: 85px;
+    border-radius:50%;
+    text-align:center;
+    font-size: 25px;
+    line-height:85px;
+    position:relative;
+    background: #ff555573;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-top: 80px;
+  }
+
+  .circle_anwb{
+    width: 85px;
+    height: 85px;
+    border-radius:50%;
+    text-align:center;
+    font-size: 25px;
+    line-height:85px;
+    position:relative;
+    background: #ffe13773;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-top: 80px;
+  }
+
+  .circle_inwoner{
+    width: 85px;
+    height: 85px;
+    border-radius:50%;
+    text-align:center;
+    font-size: 25px;
+    line-height:85px;
+    position:relative;
+    background: #8effb073;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-top: 80px;
+  }
+
