@@ -6,11 +6,11 @@ Citizen.CreateThread(function()
         SetDiscordAppId() -- Verander dit naar je CLIENT ID
         SetRichPresents()
 
-        SetDiscordRichPresentsAsset("big") -- Naam van grote image
+        SetDiscordRichPresentsAsset("") -- Naam van grote image
         SetDiscordRichPresentAssetText("") -- Tekst voor het grote image
 
-        SetDiscordRichPresenceAssetSmall("small") --Naam van kleine image
-        SetDiscordRichPresenceAssetSmallText("Kleine text") -- Tekst voor het kleine image
+        SetDiscordRichPresenceAssetSmall("") --Naam van kleine image
+        SetDiscordRichPresenceAssetSmallText("") -- Tekst voor het kleine image
     end
 end)
 
